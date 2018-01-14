@@ -1,3 +1,3 @@
 # Data-Structures
 
-just starting a new repo
+_trying to make a data structures practice repo_
